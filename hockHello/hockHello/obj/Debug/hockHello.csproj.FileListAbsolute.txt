@@ -8,3 +8,13 @@ C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\bin\Debu
 C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\bin\Debug\hockHello.application
 C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\obj\Debug\hockHello.exe.manifest
 C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\obj\Debug\hockHello.application
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\bin\Debug\hockHello.exe.config
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\obj\Debug\hockHello.exe
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\obj\Debug\hockHello.pdb
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\obj\Debug\hockHello.csprojResolveAssemblyReference.cache
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\bin\Debug\hockHello.exe.manifest
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\bin\Debug\hockHello.application
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\bin\Debug\hockHello.exe
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\bin\Debug\hockHello.pdb
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\obj\Debug\hockHello.exe.manifest
+C:\Users\Hock\github\helloCsharp\hockHello\hockHello\obj\Debug\hockHello.application
