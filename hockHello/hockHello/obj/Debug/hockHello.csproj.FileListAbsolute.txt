@@ -1,0 +1,10 @@
+c:\users\hock\documents\visual studio 2015\Projects\hockHello\hockHello\bin\Debug\hockHello.exe.config
+c:\users\hock\documents\visual studio 2015\Projects\hockHello\hockHello\bin\Debug\hockHello.exe
+c:\users\hock\documents\visual studio 2015\Projects\hockHello\hockHello\bin\Debug\hockHello.pdb
+c:\users\hock\documents\visual studio 2015\Projects\hockHello\hockHello\obj\Debug\hockHello.csprojResolveAssemblyReference.cache
+c:\users\hock\documents\visual studio 2015\Projects\hockHello\hockHello\obj\Debug\hockHello.exe
+c:\users\hock\documents\visual studio 2015\Projects\hockHello\hockHello\obj\Debug\hockHello.pdb
+C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\bin\Debug\hockHello.exe.manifest
+C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\bin\Debug\hockHello.application
+C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\obj\Debug\hockHello.exe.manifest
+C:\Users\Hock\Documents\Visual Studio 2015\Projects\hockHello\hockHello\obj\Debug\hockHello.application
